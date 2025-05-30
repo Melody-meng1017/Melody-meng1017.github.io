@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "greap.webp"
+  avatar           : "greap.jpg"
   name             : "Shuang Meng"
   pronouns         : # example: "she/her"  
   bio              : "I am a student researching machine vision at Hefei University of Technology."
