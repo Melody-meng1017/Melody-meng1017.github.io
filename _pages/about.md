@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,17 +13,17 @@ redirect_from:
 
 ### Education
 *   **September 2024 - Present**  
-    **Ph.D.** in Computer Science and Technology (or related field)  
+    **Ph.D.** in Computer Science and Technology 
     Hefei University of Technology, Hefei, China  
     Supervisor: Prof. Zhongqiu Zhao
 
 *   **September 2018 - June 2021**  
-    **M.Eng.** in Computer Science and Technology (or related field)  
+    **M.Eng.** in Computer Science and Technology 
     Lanzhou University, Lanzhou, China  
     Supervisor: Prof. Yi Wan
 
 *   **September 2013 - June 2017**  
-    **B.Eng.** in Computer Science and Technology (or related field)  
+    **B.Eng.** in Computer Science and Technology 
     Northwest A&F University, Yangling, China
 
 ### Publications
